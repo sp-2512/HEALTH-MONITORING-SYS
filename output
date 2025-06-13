@@ -1,0 +1,13 @@
+{
+  "vitals": {
+    "age": 56,
+    "weight": 73,
+    "height": 165,
+    "heart_rate": 108,
+    "bp_systolic": 147,
+    "bp_diastolic": 89,
+    "oxygen_level": 95
+  },
+  "predicted_risk": 1,
+  "message": "High risk, seek medical attention!"
+}
